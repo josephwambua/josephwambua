@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @josephwambua
-- 👀 I’m interested in ...web development and systems development
-- 🌱 I’m currently learning ...data structure and algorithms in python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a website developer
+- I'm also a systems developer
+- 🌱 I’m currently trying to launch WEB start-up
+- 💞️ I’m looking to collaborate on projects...
 - 📫 How to reach me ...jwambua296@gmail.com... +254 705 546 361
 - 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...I have never seen a white elephant before
+- ⚡ Fun fact: ... I have never seen a white elephant before
 
 <!---
 josephwambua/josephwambua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
